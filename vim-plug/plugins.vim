@@ -12,4 +12,5 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'connorholyday/vim-snazzy'
 Plug 'itchyny/lightline.vim'
 Plug 'junegunn/rainbow_parentheses.vim'
+Plug 'morhetz/gruvbox'
 call plug#end()
