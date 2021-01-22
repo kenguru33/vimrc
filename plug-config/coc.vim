@@ -43,5 +43,5 @@ nmap <space>e :CocCommand explorer<CR>
 nmap <space>ef :CocCommand explorer --preset floating<CR>
 nmap <space>f :CocFix<CR>
 autocmd BufEnter * if (winnr("$") == 1 && &filetype == 'coc-explorer') | q | endif
-let g:loaded_netrw = 1
+"let g:loaded_netrw = 1
 
