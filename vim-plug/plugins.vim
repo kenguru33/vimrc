@@ -13,4 +13,5 @@ Plug 'connorholyday/vim-snazzy'
 Plug 'itchyny/lightline.vim'
 Plug 'junegunn/rainbow_parentheses.vim'
 Plug 'morhetz/gruvbox'
+Plug 'tpope/vim-fugitive'
 call plug#end()
